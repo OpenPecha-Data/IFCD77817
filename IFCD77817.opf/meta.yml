@@ -1,0 +1,26 @@
+id: IFCD77817
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:33:25.863591'
+last_modified: '2022-05-30T18:33:25.863603'
+parser: null
+source_metadata:
+  title: Ngöndro Commentary by Chökyi Drakpa
+  language: en
+  description: 'The commentary on the preliminary practices of Longchen Nyingtik by
+    Chökyi Drakpa (chos kyi grags pa):'
+  volume:
+    fE99E:
+      title: 'A Torch for the Path to Omniscience: A Word by Word Commentary to the
+        Longchen Nyingtik Ngöndro'
+      base_file: fE99E.txt
+      order: 1
+      parent: null
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
